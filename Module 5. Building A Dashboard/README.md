@@ -1,4 +1,4 @@
-First Dashboard Current Technology Usage
+First Dashboard: Current Technology Usage
 
 Visualized Top 10 LanguageHaveWorkedWith as a Bar chart
 
