@@ -18,13 +18,6 @@ In histogram lab:
 
 Visualizing the distribution of data using histograms.
 
-----------------------------------------------
-In Data Visualization lab:
-
-Visualizing the relationship between two features.
-
-Visualizing composition and comparison of data
-
 --------------------------------------------
 In Line chart lab:
 
